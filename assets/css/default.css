@@ -1,0 +1,12 @@
+.hidden {
+  display: none
+}
+
+.pointer {
+  cursor: pointer
+}
+
+.scrollable-dialog {
+  max-height: 800px;
+  overflow-y: auto;
+}
